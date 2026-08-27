@@ -1,0 +1,8 @@
+facility_id,metric,forecast_date,forecast_value,capacity,breach
+GMC-AHM-001,beds_occupied,2026-08-29,420.1,500,False
+GMC-AHM-001,beds_occupied,2026-08-30,422.8,500,False
+GMC-AHM-001,beds_occupied,2026-08-31,388.2,500,False
+GMC-AHM-001,beds_occupied,2026-09-01,399.6,500,False
+GMC-AHM-001,beds_occupied,2026-09-02,427.4,500,False
+GMC-AHM-001,beds_occupied,2026-09-03,442.6,500,False
+GMC-AHM-001,beds_occupied,2026-09-04,432.6,500,False
